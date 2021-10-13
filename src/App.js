@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+/* eslint-disable no-alert */
+import React, { useState, useEffect } from 'react'
+import DisplayCustomers from './components/DisplayCustomers'
+import transactionService from './services/transactions'
 
-function App() {
+const App = () => {
+  const [transactions, setTransactions] = useState([])
+  const [customers, setCustomers] = useState([])
+
+  useEffect(() => {
+    transactionService.getAll().then((initialTransactions) => {
+      setTransactions(initialTransactions)
+      const initialCustomers = [
+        ...new Set(initialTransactions.map((transaction) => transaction.userId)),
+      ]
+      setCustomers(initialCustomers)
+    })
+  }, [])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Rewards Program Calculator</h1>
+      <DisplayCustomers customers={customers} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
