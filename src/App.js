@@ -1,6 +1,7 @@
 /* eslint-disable no-alert */
 import React, { useState, useEffect } from 'react'
 import DisplayCustomers from './components/DisplayCustomers'
+import DateSelectionForm from './components/DateSelectionForm'
 import transactionService from './services/transactions'
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
   return (
     <div>
       <h1>Rewards Program Calculator</h1>
+      <DateSelectionForm transactions={transactions} />
       <DisplayCustomers customers={customers} />
     </div>
   )
