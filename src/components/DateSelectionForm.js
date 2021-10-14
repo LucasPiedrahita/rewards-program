@@ -1,20 +1,7 @@
 import React from 'react'
+import getMonthNameByNumber from '../utils/getMonthNameByNumber'
 
 const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
-  const months = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-  ]
   const transactionMonths = [
     ...new Set(transactions.map((transaction) => new Date(transaction.date).getMonth())),
   ].sort((a, b) => a - b)
@@ -23,7 +10,7 @@ const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
     .filter((month) => month <= finalMonth - 2)
     .map((month) => {
       return {
-        label: `${months[month]} - ${months[month + 2]}`,
+        label: `${getMonthNameByNumber(month)} - ${getMonthNameByNumber(month + 2)}`,
         firstMonth: month,
       }
     })
