@@ -1,11 +1,12 @@
 import React from 'react'
-// TODO: convert to table layout
+import Table from 'react-bootstrap/Table'
+
 const DisplayCustomers = ({ customers, selectedMonths }) => {
   console.log(selectedMonths)
   return (
     <>
       <h2>Customers</h2>
-      <table id='customer-rewards-table'>
+      <Table striped bordered hover id='customer-rewards-table'>
         <thead>
           <tr id='customer-rewards-header'>
             <th className='customer'>Customer</th>
@@ -34,7 +35,7 @@ const DisplayCustomers = ({ customers, selectedMonths }) => {
             )
           )}
         </tbody>
-      </table>
+      </Table>
     </>
   )
 }
