@@ -27,10 +27,10 @@ const DisplayCustomers = ({ customers, selectedMonths }) => {
             }) => (
               <tr key={customerId}>
                 <td className='customer'>{customerId.replace(/\./, ' ')}</td>
-                <td className='first-month'>{firstMonthRewards}</td>
-                <td className='second-month'>{secondMonthRewards}</td>
-                <td className='third-month'>{thirdMonthRewards}</td>
-                <td className='total'>{totalRewards}</td>
+                <td className='first-month'>{firstMonthRewards.toLocaleString()}</td>
+                <td className='second-month'>{secondMonthRewards.toLocaleString()}</td>
+                <td className='third-month'>{thirdMonthRewards.toLocaleString()}</td>
+                <td className='total'>{totalRewards.toLocaleString()}</td>
               </tr>
             )
           )}
