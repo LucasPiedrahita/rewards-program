@@ -3,3001 +3,3001 @@
     {
       "_id": "6166cfcfd4451f9a67e11159",
       "amount": 326.99,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-09T04:51:12"
     },
     {
       "_id": "6166cfcfb050ff2fce3dded6",
       "amount": 378.7,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-19T11:41:05"
     },
     {
       "_id": "6166cfcfcbc4bfd54261630f",
       "amount": 395.75,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-27T01:12:47"
     },
     {
       "_id": "6166cfcfc87ca423e90439cd",
       "amount": 420.57,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-10T10:12:22"
     },
     {
       "_id": "6166cfcf3b6c8a4c9c03df7b",
       "amount": 21.37,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-22T08:38:46"
     },
     {
       "_id": "6166cfcf835478d32ab44060",
       "amount": 230.51,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-02T09:09:40"
     },
     {
       "_id": "6166cfcf163d4c8638a23fae",
       "amount": 287.67,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-19T03:36:10"
     },
     {
       "_id": "6166cfcfb0ef77f9a449b653",
       "amount": 388.85,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-20T04:22:40"
     },
     {
       "_id": "6166cfcf21dc5005d7cd89d1",
       "amount": 145.93,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-20T04:53:05"
     },
     {
       "_id": "6166cfcf24b4b68977c8f915",
       "amount": 118.33,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-26T08:44:50"
     },
     {
       "_id": "6166cfcf628723582714bcb4",
       "amount": 180.9,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-07T07:13:27"
     },
     {
       "_id": "6166cfcfdebdabd930deacf2",
       "amount": 202.07,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-08T12:12:13"
     },
     {
       "_id": "6166cfcfc76ed88b52c955a8",
       "amount": 125.74,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-24T01:32:28"
     },
     {
       "_id": "6166cfcfd3a7a7831a777fee",
       "amount": 124.99,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-16T09:39:43"
     },
     {
       "_id": "6166cfcf97417d5895d33aff",
       "amount": 95.45,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-12T05:41:16"
     },
     {
       "_id": "6166cfcfb06d6cfdd09cd907",
       "amount": 183.05,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-11T03:02:36"
     },
     {
       "_id": "6166cfcfcd471baa319285c2",
       "amount": 332.25,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-10T02:18:37"
     },
     {
       "_id": "6166cfcf090833fdb5d061a4",
       "amount": 90.38,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-23T07:44:15"
     },
     {
       "_id": "6166cfcf6bab17b8a6002180",
       "amount": 467.74,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-01T04:34:56"
     },
     {
       "_id": "6166cfcf4bd8b5ebae817458",
       "amount": 342.34,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-21T01:25:21"
     },
     {
       "_id": "6166cfcf970b286710f65a48",
       "amount": 337.64,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-19T01:20:08"
     },
     {
       "_id": "6166cfcff5d275dd48ff32a2",
       "amount": 378.96,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-12T12:40:23"
     },
     {
       "_id": "6166cfcf42d75c2c7844f8b4",
       "amount": 47.5,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-07T05:43:46"
     },
     {
       "_id": "6166cfcff932840535297007",
       "amount": 139.67,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-26T08:51:45"
     },
     {
       "_id": "6166cfcf7974fc1dfd879f74",
       "amount": 290.12,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-15T02:49:58"
     },
     {
       "_id": "6166cfcf67459136317b79cc",
       "amount": 123.65,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-21T02:47:42"
     },
     {
       "_id": "6166cfcf13db4ab814fe7df4",
       "amount": 100.33,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-11T12:04:41"
     },
     {
       "_id": "6166cfcff98b4a85a73af6d7",
       "amount": 138.66,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-24T10:38:12"
     },
     {
       "_id": "6166cfcf60cb488f3882eea6",
       "amount": 139.01,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-10T04:39:37"
     },
     {
       "_id": "6166cfcf99f65529d27299c2",
       "amount": 342.33,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-08T10:21:41"
     },
     {
       "_id": "6166cfcf11e1eb3a84802a53",
       "amount": 59.99,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-05T10:28:37"
     },
     {
       "_id": "6166cfcfe47a008c5f4a7ebb",
       "amount": 60.15,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-10T07:31:14"
     },
     {
       "_id": "6166cfcfa7af034adc06c42c",
       "amount": 36.52,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-17T05:12:35"
     },
     {
       "_id": "6166cfcf101548199c0e12f5",
       "amount": 315.68,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-22T04:01:41"
     },
     {
       "_id": "6166cfcfea43ff284a91fd41",
       "amount": 271.37,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-24T11:31:15"
     },
     {
       "_id": "6166cfcf6b3b578baf2ec6ee",
       "amount": 403.91,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-24T09:30:10"
     },
     {
       "_id": "6166cfcf667ec6d75efa6700",
       "amount": 427.89,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-06T07:01:14"
     },
     {
       "_id": "6166cfcf78d930d8bc4e801a",
       "amount": 470.93,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-09T06:09:48"
     },
     {
       "_id": "6166cfcff199871e730a35eb",
       "amount": 479.32,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-27T03:59:47"
     },
     {
       "_id": "6166cfcf318eec771d7d6735",
       "amount": 313.22,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-24T11:47:33"
     },
     {
       "_id": "6166cfcf26d9911e0c9a29a2",
       "amount": 378.12,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-13T08:15:55"
     },
     {
       "_id": "6166cfcf8f11de56b7c35615",
       "amount": 364.14,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-16T08:32:23"
     },
     {
       "_id": "6166cfcf0bba34ae646f99d0",
       "amount": 297.37,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-23T09:28:42"
     },
     {
       "_id": "6166cfcfb6a394865a88fb38",
       "amount": 39.99,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-18T10:33:40"
     },
     {
       "_id": "6166cfcf7f551f91c3caf1e2",
       "amount": 486.35,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-17T06:10:19"
     },
     {
       "_id": "6166cfcfaf1291796e54a522",
       "amount": 419.52,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-12T10:12:57"
     },
     {
       "_id": "6166cfcf84ad816b84df1035",
       "amount": 228.01,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-22T08:31:37"
     },
     {
       "_id": "6166cfcff00f8054a1c81707",
       "amount": 159.5,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-15T07:10:40"
     },
     {
       "_id": "6166cfcf0c2be2db7a2aa213",
       "amount": 76.97,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-16T05:54:06"
     },
     {
       "_id": "6166cfcf29da013775062f3e",
       "amount": 256.09,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-03T01:39:31"
     },
     {
       "_id": "6166cfcf03992d5d2ab23c69",
       "amount": 429.55,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-11T08:49:03"
     },
     {
       "_id": "6166cfcfe58f7740a060f320",
       "amount": 94.15,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-21T12:16:57"
     },
     {
       "_id": "6166cfcf2fba393c86ad9bd3",
       "amount": 258.78,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-31T10:19:02"
     },
     {
       "_id": "6166cfcf834f23f6f328243a",
       "amount": 285.74,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-01T05:18:16"
     },
     {
       "_id": "6166cfcf055055ed0a1be952",
       "amount": 224.93,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-23T05:40:42"
     },
     {
       "_id": "6166cfcf4625bad109a00d3b",
       "amount": 339.82,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-17T12:37:09"
     },
     {
       "_id": "6166cfcfab66624494a60bcf",
       "amount": 128.37,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-29T11:14:36"
     },
     {
       "_id": "6166cfcf4a11d0b5b4afe2c6",
       "amount": 309.68,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-25T10:42:21"
     },
     {
       "_id": "6166cfcf49b012a373e3d6c1",
       "amount": 9.57,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-03T10:12:11"
     },
     {
       "_id": "6166cfcf1d714bae010c5845",
       "amount": 228.98,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-01T06:22:10"
     },
     {
       "_id": "6166cfcf610c71c9f0b02ebf",
       "amount": 100.31,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-24T05:52:49"
     },
     {
       "_id": "6166cfcfba3815b7ec3387dd",
       "amount": 494.84,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-13T05:08:43"
     },
     {
       "_id": "6166cfcf9b7b12cbbf9ddcc5",
       "amount": 387.57,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-11T10:49:25"
     },
     {
       "_id": "6166cfcf070c37f2283da379",
       "amount": 210.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-10T04:23:35"
     },
     {
       "_id": "6166cfcf6c7033681bfedd87",
       "amount": 101.85,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-30T06:06:02"
     },
     {
       "_id": "6166cfcf44ed8e2a096a3b80",
       "amount": 430.15,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-06T02:04:25"
     },
     {
       "_id": "6166cfcfeaf7c3870ac9aa89",
       "amount": 219.94,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-30T11:21:10"
     },
     {
       "_id": "6166cfcf1f8996c2bc19b5e5",
       "amount": 255.54,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-06T02:59:44"
     },
     {
       "_id": "6166cfcf3bea31ddcbbf188b",
       "amount": 418.4,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-20T12:50:46"
     },
     {
       "_id": "6166cfcf5652e51a1940492b",
       "amount": 50.82,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-19T08:43:03"
     },
     {
       "_id": "6166cfcfb1d3365788963574",
       "amount": 190.44,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-30T02:33:06"
     },
     {
       "_id": "6166cfcff52c58cb75c8f674",
       "amount": 260.78,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-03T12:24:22"
     },
     {
       "_id": "6166cfcffccd56d7cd7fe601",
       "amount": 305.38,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-18T03:47:05"
     },
     {
       "_id": "6166cfcf37bc78210a567188",
       "amount": 250.75,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-18T06:25:46"
     },
     {
       "_id": "6166cfcf7fe54a29a9067869",
       "amount": 161.5,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-05T02:33:56"
     },
     {
       "_id": "6166cfcf828bb7d146011e49",
       "amount": 315.84,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-27T07:18:13"
     },
     {
       "_id": "6166cfcf2de92fe587bf3b8f",
       "amount": 368.58,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-24T06:24:53"
     },
     {
       "_id": "6166cfcf7fb1ec6b18f1886a",
       "amount": 88.09,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-28T01:21:41"
     },
     {
       "_id": "6166cfcf42f62c03de71132c",
       "amount": 425.76,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-03T10:59:24"
     },
     {
       "_id": "6166cfcf64e1b598f43ebd98",
       "amount": 38.31,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-09T10:25:57"
     },
     {
       "_id": "6166cfcf4073a4233e25cc8d",
       "amount": 6.35,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-23T08:04:24"
     },
     {
       "_id": "6166cfcf96947c0ab8a9d253",
       "amount": 152.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-30T11:07:41"
     },
     {
       "_id": "6166cfcf8f3da11345f4af1b",
       "amount": 308.74,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-29T07:49:01"
     },
     {
       "_id": "6166cfcf3a4ed83b5aca7728",
       "amount": 69.21,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-03T01:39:59"
     },
     {
       "_id": "6166cfcfdaca542746d68531",
       "amount": 187.56,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-26T12:17:47"
     },
     {
       "_id": "6166cfcf1de6908b42d47022",
       "amount": 11.22,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-20T06:57:28"
     },
     {
       "_id": "6166cfcf654b00b055d40291",
       "amount": 353.08,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-24T05:04:27"
     },
     {
       "_id": "6166cfcfedf585a6cc7d41e5",
       "amount": 236.27,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-30T04:46:17"
     },
     {
       "_id": "6166cfcff83b172a206c4531",
       "amount": 136.03,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-25T01:57:24"
     },
     {
       "_id": "6166cfcfb1577586ecc13e5a",
       "amount": 224.75,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-06T09:07:22"
     },
     {
       "_id": "6166cfcf9bb97c42be37bb27",
       "amount": 214.98,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-23T09:48:23"
     },
     {
       "_id": "6166cfcf2715ef8bd5de3d1e",
       "amount": 310.75,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-21T02:11:40"
     },
     {
       "_id": "6166cfcf01218bc689832a06",
       "amount": 359.24,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-02T10:56:44"
     },
     {
       "_id": "6166cfcf0a4f90145c6d96ee",
       "amount": 49.33,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-01T07:51:25"
     },
     {
       "_id": "6166cfcfb2dc008204e195b5",
       "amount": 14.43,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-21T08:57:26"
     },
     {
       "_id": "6166cfcf7140def6ba903121",
       "amount": 216.22,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-17T05:35:13"
     },
     {
       "_id": "6166cfcf2c1d4825df2a5afc",
       "amount": 320.66,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-10T10:25:47"
     },
     {
       "_id": "6166cfcf18b6e3dd18a4523c",
       "amount": 67.31,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-01T07:29:22"
     },
     {
       "_id": "6166cfcf08be2df4fb06dda2",
       "amount": 491.53,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-03T10:10:52"
     },
     {
       "_id": "6166cfcf1dbb3bcbd936e977",
       "amount": 40.9,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-28T10:19:49"
     },
     {
       "_id": "6166cfcf95f8f54ae4ffba1d",
       "amount": 62.01,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-24T09:30:22"
     },
     {
       "_id": "6166cfcf48ad27f6f36888d9",
       "amount": 497.22,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-10T05:47:50"
     },
     {
       "_id": "6166cfcfaf3fb0b6bb76f8b3",
       "amount": 421.26,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-30T03:15:47"
     },
     {
       "_id": "6166cfcfed1bb77c58e38001",
       "amount": 323.3,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-30T01:25:26"
     },
     {
       "_id": "6166cfcfa90fa6bc44425c88",
       "amount": 386.08,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-22T10:40:45"
     },
     {
       "_id": "6166cfcf8b226b13588a34a2",
       "amount": 316.67,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-03T04:02:05"
     },
     {
       "_id": "6166cfcf6fade2b9fa3de9db",
       "amount": 256.77,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-28T07:04:31"
     },
     {
       "_id": "6166cfcf10c5e51f35b3c4c5",
       "amount": 264.36,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-26T03:19:50"
     },
     {
       "_id": "6166cfcfb83d2c0382661a32",
       "amount": 169.76,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-14T06:29:01"
     },
     {
       "_id": "6166cfcf36ad31e5651862fd",
       "amount": 386.6,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-06T12:22:32"
     },
     {
       "_id": "6166cfcfce7d5d4bf88f669f",
       "amount": 200.89,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-25T05:24:35"
     },
     {
       "_id": "6166cfcf6b6e622f52669a97",
       "amount": 92.77,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-17T04:42:23"
     },
     {
       "_id": "6166cfcf4601b5436f00e844",
       "amount": 124.66,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-08T06:19:04"
     },
     {
       "_id": "6166cfcfa9df24a91e0f24fb",
       "amount": 281.23,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-22T10:21:41"
     },
     {
       "_id": "6166cfcf97a46c0797996c1e",
       "amount": 461.73,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-19T12:35:58"
     },
     {
       "_id": "6166cfcf06e3b1c6c9e49fbf",
       "amount": 486.23,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-29T10:33:00"
     },
     {
       "_id": "6166cfcf6961130634501b85",
       "amount": 231.08,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-19T11:13:27"
     },
     {
       "_id": "6166cfcfb34399454afd35fe",
       "amount": 499.18,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-26T05:16:25"
     },
     {
       "_id": "6166cfcf9d1469a26d484ccc",
       "amount": 111.92,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-05T03:40:35"
     },
     {
       "_id": "6166cfcf506ee3c80c5fe091",
       "amount": 343.1,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-25T03:09:47"
     },
     {
       "_id": "6166cfcf5fb7b67f47e03970",
       "amount": 479.61,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-27T09:19:24"
     },
     {
       "_id": "6166cfcf056d217d267dd137",
       "amount": 377.83,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-04T06:16:30"
     },
     {
       "_id": "6166cfcfe215fb4c705aee92",
       "amount": 28.27,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-03T09:58:36"
     },
     {
       "_id": "6166cfcf7adb5401b32c5883",
       "amount": 321.7,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-13T06:03:57"
     },
     {
       "_id": "6166cfcf831cffdadc8dcf7b",
       "amount": 220.4,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-02T07:37:51"
     },
     {
       "_id": "6166cfcf8ab2a7caeb4f6a21",
       "amount": 33.86,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-28T11:31:50"
     },
     {
       "_id": "6166cfcf67442e6074bf765d",
       "amount": 124.47,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-15T02:14:10"
     },
     {
       "_id": "6166cfcf27302175e25c5d50",
       "amount": 258.18,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-02T11:48:02"
     },
     {
       "_id": "6166cfcf6076223a07bd5ccc",
       "amount": 156.03,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-05T02:29:29"
     },
     {
       "_id": "6166cfcfdbbdff1f5786447d",
       "amount": 462.97,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-12T01:42:47"
     },
     {
       "_id": "6166cfcfceec9d950a28ee9d",
       "amount": 245.66,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-16T12:20:47"
     },
     {
       "_id": "6166cfcf76eab78840274648",
       "amount": 142.79,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-09T05:02:46"
     },
     {
       "_id": "6166cfcf2dc64ea60f450612",
       "amount": 174.79,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-09T11:11:39"
     },
     {
       "_id": "6166cfcf8d2e2e0147586436",
       "amount": 376.41,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-05T05:49:09"
     },
     {
       "_id": "6166cfcf5038e843d6165431",
       "amount": 116.98,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-03T02:52:05"
     },
     {
       "_id": "6166cfcfcc9324d8aa06b864",
       "amount": 77.59,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-15T06:52:55"
     },
     {
       "_id": "6166cfcf36121269e15bd38f",
       "amount": 207.9,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-26T07:02:57"
     },
     {
       "_id": "6166cfcfa5b84cb5592fa64a",
       "amount": 453.13,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-22T06:01:42"
     },
     {
       "_id": "6166cfcff754025166881f26",
       "amount": 494.27,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-26T10:44:17"
     },
     {
       "_id": "6166cfcfd4a129eeda25380d",
       "amount": 95.38,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-08T07:01:02"
     },
     {
       "_id": "6166cfcf63c6c087ff4f43b4",
       "amount": 243.31,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-23T11:58:14"
     },
     {
       "_id": "6166cfcf0a2fac4056008453",
       "amount": 127.88,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-08T08:37:36"
     },
     {
       "_id": "6166cfcfd606186a5bc56d88",
       "amount": 487.43,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-05T04:10:17"
     },
     {
       "_id": "6166cfcfe2f8f09dc7b90411",
       "amount": 270.27,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-25T09:00:25"
     },
     {
       "_id": "6166cfcf08650bd279e1edd2",
       "amount": 477.6,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-22T09:44:43"
     },
     {
       "_id": "6166cfcf53d31ff746db9647",
       "amount": 494.23,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-01T11:19:55"
     },
     {
       "_id": "6166cfcfdfec9b77ebf4d8c8",
       "amount": 59.64,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-20T12:59:44"
     },
     {
       "_id": "6166cfcffe7a4c762062a73d",
       "amount": 42.23,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-12T09:43:39"
     },
     {
       "_id": "6166cfcf35a64fd55fe5564e",
       "amount": 465.53,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-31T06:59:33"
     },
     {
       "_id": "6166cfcf97032cc5d1d87e91",
       "amount": 202.34,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-24T02:37:56"
     },
     {
       "_id": "6166cfcf41671364cad02597",
       "amount": 272.57,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-31T01:42:44"
     },
     {
       "_id": "6166cfcf36e9af8f97ccd371",
       "amount": 26.37,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-06T08:54:29"
     },
     {
       "_id": "6166cfcf13c57984834edffb",
       "amount": 389.47,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-20T03:27:23"
     },
     {
       "_id": "6166cfcf4b5f8ca4eeaf9ccc",
       "amount": 236.86,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-23T02:02:14"
     },
     {
       "_id": "6166cfcf4b19d7f32bce475e",
       "amount": 290.63,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-03T04:34:22"
     },
     {
       "_id": "6166cfcfcb32c63922777e05",
       "amount": 66.08,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-29T10:40:13"
     },
     {
       "_id": "6166cfcfe12e3925cdef2e8c",
       "amount": 9.99,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-20T09:17:50"
     },
     {
       "_id": "6166cfcfb79018c02410e0ca",
       "amount": 396.55,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-30T12:24:33"
     },
     {
       "_id": "6166cfcf6ddfcd4d8e523472",
       "amount": 339.97,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-18T12:19:09"
     },
     {
       "_id": "6166cfcfdb904be9e6b8b98d",
       "amount": 375.75,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-21T06:01:48"
     },
     {
       "_id": "6166cfcfa2349de5001ec64e",
       "amount": 7.81,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-10T05:41:25"
     },
     {
       "_id": "6166cfcff3714e356ef93789",
       "amount": 187.88,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-31T05:52:20"
     },
     {
       "_id": "6166cfcf6538c1d6915b07a4",
       "amount": 20.76,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-11T05:28:01"
     },
     {
       "_id": "6166cfcfb021503de968dfcf",
       "amount": 52.43,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-24T08:18:16"
     },
     {
       "_id": "6166cfcf143a2d948dc9bee0",
       "amount": 149.05,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-23T03:46:31"
     },
     {
       "_id": "6166cfcff8ab6108dfbd8b07",
       "amount": 221.87,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-30T02:31:32"
     },
     {
       "_id": "6166cfcfaf8fe7e5bc053638",
       "amount": 229.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-14T02:26:08"
     },
     {
       "_id": "6166cfcfaf48822e8d14407e",
       "amount": 349.26,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-30T09:37:20"
     },
     {
       "_id": "6166cfcfb8b78f906456894a",
       "amount": 227.81,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-04T09:41:31"
     },
     {
       "_id": "6166cfcfd8647ec4b39958ec",
       "amount": 482.13,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-22T03:53:04"
     },
     {
       "_id": "6166cfcfd9c78fb738db659a",
       "amount": 28.65,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-16T03:10:32"
     },
     {
       "_id": "6166cfcf27c60baf9eed683a",
       "amount": 141.2,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-30T03:21:14"
     },
     {
       "_id": "6166cfcf387732f40f0331fe",
       "amount": 228.21,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-09T07:51:55"
     },
     {
       "_id": "6166cfcf67e4727595e6b15b",
       "amount": 179.19,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-17T02:08:09"
     },
     {
       "_id": "6166cfcfed045d28752a57a2",
       "amount": 121.04,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-23T06:29:15"
     },
     {
       "_id": "6166cfcf936273324a147db7",
       "amount": 263.17,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-19T10:11:55"
     },
     {
       "_id": "6166cfcf182f16cf26814015",
       "amount": 273.17,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-23T07:33:52"
     },
     {
       "_id": "6166cfcf5a14f153f79a2978",
       "amount": 350.2,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-02T03:01:39"
     },
     {
       "_id": "6166cfcfbbcddb240c4029b9",
       "amount": 153.12,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-06T05:22:46"
     },
     {
       "_id": "6166cfcfe3c3be43e0f78b25",
       "amount": 85.04,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-13T11:03:32"
     },
     {
       "_id": "6166cfcf560e22ad86b370a6",
       "amount": 61.96,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-08T01:39:07"
     },
     {
       "_id": "6166cfcfc0864d53e62080cb",
       "amount": 147.07,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-15T03:41:01"
     },
     {
       "_id": "6166cfcf8e9b335777159a32",
       "amount": 419.81,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-13T07:25:09"
     },
     {
       "_id": "6166cfcf2ee046898c41f091",
       "amount": 469.84,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-23T05:17:47"
     },
     {
       "_id": "6166cfcff2fbbc661101f498",
       "amount": 383.69,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-26T11:05:58"
     },
     {
       "_id": "6166cfcf5fd3192532d5fcb1",
       "amount": 271.01,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-21T10:03:15"
     },
     {
       "_id": "6166cfcf3747d50552405629",
       "amount": 105.38,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-18T10:01:26"
     },
     {
       "_id": "6166cfcff8052896fc3b1ec2",
       "amount": 358.39,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-12T09:22:13"
     },
     {
       "_id": "6166cfcfec0eafe87639d064",
       "amount": 246.58,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-18T02:12:35"
     },
     {
       "_id": "6166cfcf790b6ddb5b28bc34",
       "amount": 327.76,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-21T10:40:51"
     },
     {
       "_id": "6166cfcf18d41c0feca2239b",
       "amount": 18.85,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-25T10:43:49"
     },
     {
       "_id": "6166cfcf0d97d1d379864748",
       "amount": 17.86,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-09T07:48:30"
     },
     {
       "_id": "6166cfcf46ecd011bf986828",
       "amount": 397.49,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-04T08:17:43"
     },
     {
       "_id": "6166cfcf4c1c1b06c1603a92",
       "amount": 112.69,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-09T07:32:52"
     },
     {
       "_id": "6166cfcfd88a3bf7bc9085af",
       "amount": 384.08,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-19T12:00:40"
     },
     {
       "_id": "6166cfcf53efa96dfe381a46",
       "amount": 497.93,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-01T04:26:10"
     },
     {
       "_id": "6166cfcfd850ef343351c130",
       "amount": 29.91,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-03T12:12:03"
     },
     {
       "_id": "6166cfcf2f1ef6ef7b9c4567",
       "amount": 262.06,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-04T03:58:03"
     },
     {
       "_id": "6166cfcf1249a32ebe962940",
       "amount": 458.88,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-16T06:25:51"
     },
     {
       "_id": "6166cfcf7c28cf68814a8c5e",
       "amount": 332.29,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-03T10:11:53"
     },
     {
       "_id": "6166cfcf0fbac25ff592dfc3",
       "amount": 169.25,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-20T02:31:27"
     },
     {
       "_id": "6166cfcf734d98db4dcac5f0",
       "amount": 341.06,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-30T01:00:05"
     },
     {
       "_id": "6166cfcf8546c027f4e7f73a",
       "amount": 319.87,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-07T06:38:35"
     },
     {
       "_id": "6166cfcfee410497ea4086ad",
       "amount": 37.18,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-25T07:32:23"
     },
     {
       "_id": "6166cfcf019703c04ab363ee",
       "amount": 168.04,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-18T04:41:05"
     },
     {
       "_id": "6166cfcf154d2336d0ab95de",
       "amount": 124.23,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-06T02:27:04"
     },
     {
       "_id": "6166cfcfc0cd8634fbcaba2c",
       "amount": 15.67,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-17T06:36:10"
     },
     {
       "_id": "6166cfcf9349e60e453f6c02",
       "amount": 269.19,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-04T09:42:16"
     },
     {
       "_id": "6166cfcf65289d5b1b2e7167",
       "amount": 289.98,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-07T07:14:33"
     },
     {
       "_id": "6166cfcfad4651dd6fa310eb",
       "amount": 79.38,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-11T11:38:16"
     },
     {
       "_id": "6166cfcf606c8720ee2b3514",
       "amount": 61.2,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-03T03:53:08"
     },
     {
       "_id": "6166cfcff921c693c2965d30",
       "amount": 200.05,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-26T12:14:16"
     },
     {
       "_id": "6166cfcf1c94d714333e1ee8",
       "amount": 138.13,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-31T09:41:11"
     },
     {
       "_id": "6166cfcff809ce145e7e348c",
       "amount": 422.26,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-03T10:44:14"
     },
     {
       "_id": "6166cfcfde47664bd586a6c3",
       "amount": 51.64,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-19T12:15:25"
     },
     {
       "_id": "6166cfcf1e171ff14e524d47",
       "amount": 147.46,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-16T09:02:30"
     },
     {
       "_id": "6166cfcfc5451164cb2b43c9",
       "amount": 270.95,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-04T03:08:14"
     },
     {
       "_id": "6166cfcf4df97014507ad8a9",
       "amount": 136.52,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-07T07:53:30"
     },
     {
       "_id": "6166cfcf78ca8cc0b0a634d2",
       "amount": 388.77,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-28T01:35:34"
     },
     {
       "_id": "6166cfcf63be88fc77e06374",
       "amount": 152.95,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-19T09:44:53"
     },
     {
       "_id": "6166cfcf2a7b034fcfe590fd",
       "amount": 62.35,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-19T08:21:12"
     },
     {
       "_id": "6166cfcf35cfe06607f61fe7",
       "amount": 487.36,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-26T04:40:59"
     },
     {
       "_id": "6166cfcf5a6b82082c956f83",
       "amount": 476.01,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-24T02:28:46"
     },
     {
       "_id": "6166cfcfd8fe21f0455d442e",
       "amount": 171.21,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-20T05:03:38"
     },
     {
       "_id": "6166cfcfc8b96bfed77e864f",
       "amount": 398.86,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-21T07:43:07"
     },
     {
       "_id": "6166cfcfae395323cffaa021",
       "amount": 276.07,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-15T01:34:40"
     },
     {
       "_id": "6166cfcf0ae60d3ed317433e",
       "amount": 494.57,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-24T03:30:00"
     },
     {
       "_id": "6166cfcfc1e466c31fb13f3d",
       "amount": 196.52,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-02T12:34:48"
     },
     {
       "_id": "6166cfcfe33c7d00fce13fbe",
       "amount": 349.26,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-22T07:29:34"
     },
     {
       "_id": "6166cfcfa6bb7b1eb1bd3f9e",
       "amount": 96.23,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-30T04:21:14"
     },
     {
       "_id": "6166cfcfec8cb04401a0f141",
       "amount": 274.8,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-16T04:45:30"
     },
     {
       "_id": "6166cfcf683577b821cac315",
       "amount": 477.09,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-07T10:09:40"
     },
     {
       "_id": "6166cfcfce25b63955cb3571",
       "amount": 329.44,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-13T05:01:34"
     },
     {
       "_id": "6166cfcff336f8d2c7f4acb0",
       "amount": 29.97,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-28T03:41:43"
     },
     {
       "_id": "6166cfcfdbe3f54172468e8d",
       "amount": 444.25,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-01T11:11:27"
     },
     {
       "_id": "6166cfcfeddf8a6461e94924",
       "amount": 336.47,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-05T04:24:07"
     },
     {
       "_id": "6166cfcfbbb2f64de49207e7",
       "amount": 272.15,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-21T08:58:15"
     },
     {
       "_id": "6166cfcf0fa930739edc2e42",
       "amount": 156.66,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-05T12:50:23"
     },
     {
       "_id": "6166cfcf34613f7e3e1eff62",
       "amount": 10.94,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-14T08:38:32"
     },
     {
       "_id": "6166cfcf744cd635ab950715",
       "amount": 169.17,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-31T04:03:36"
     },
     {
       "_id": "6166cfcf5e44f8cbfea84bab",
       "amount": 267.19,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-01T10:04:36"
     },
     {
       "_id": "6166cfcf0d47b8847125b5ef",
       "amount": 62.97,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-15T05:43:08"
     },
     {
       "_id": "6166cfcf9e2f75b2fc8bf5cf",
       "amount": 24.59,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-04T01:37:49"
     },
     {
       "_id": "6166cfcfda7bdfada5885613",
       "amount": 214.43,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-06T06:25:48"
     },
     {
       "_id": "6166cfcfa288d0c925a2137c",
       "amount": 369.99,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-14T02:01:26"
     },
     {
       "_id": "6166cfcfb1962340b4364419",
       "amount": 316.68,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-15T12:59:38"
     },
     {
       "_id": "6166cfcf8912bf0e17933f67",
       "amount": 471.79,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-22T04:12:52"
     },
     {
       "_id": "6166cfcfd179be51e31c056f",
       "amount": 46.06,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-16T07:56:59"
     },
     {
       "_id": "6166cfcf8111a8e5657b54e4",
       "amount": 251.6,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-19T01:49:53"
     },
     {
       "_id": "6166cfcfec1ba33e21dbf8d9",
       "amount": 70.2,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-06T11:15:07"
     },
     {
       "_id": "6166cfcfe3ca922d1a3e8153",
       "amount": 91.73,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-29T10:54:32"
     },
     {
       "_id": "6166cfcfcf45b705e3146381",
       "amount": 369.03,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-19T10:41:20"
     },
     {
       "_id": "6166cfcf71e1c2c50dbada3d",
       "amount": 237.61,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-21T01:44:27"
     },
     {
       "_id": "6166cfcfee04890c488ddff3",
       "amount": 282.76,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-17T06:51:37"
     },
     {
       "_id": "6166cfcf08a07d3c34ad5855",
       "amount": 194.47,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-24T02:35:42"
     },
     {
       "_id": "6166cfcf5228b4217699389c",
       "amount": 253.3,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-20T10:09:21"
     },
     {
       "_id": "6166cfcf245e6f06cda1c216",
       "amount": 228.61,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-08T12:27:45"
     },
     {
       "_id": "6166cfcf32f5ba8717e94a21",
       "amount": 171.02,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-27T06:38:16"
     },
     {
       "_id": "6166cfcf948fb17624ea184b",
       "amount": 356.33,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-15T12:00:24"
     },
     {
       "_id": "6166cfcf9153629a518c9822",
       "amount": 140.38,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-08T09:59:35"
     },
     {
       "_id": "6166cfcf2ce3a88e7301b188",
       "amount": 315.62,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-17T06:09:21"
     },
     {
       "_id": "6166cfcf7e38e3ff0661d25a",
       "amount": 42.39,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-22T05:09:50"
     },
     {
       "_id": "6166cfcfe5c161c552a28680",
       "amount": 305.23,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-24T03:53:11"
     },
     {
       "_id": "6166cfcf99a1971b4fb9ba37",
       "amount": 202.32,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-11T07:52:51"
     },
     {
       "_id": "6166cfcf18fcaf03d19dff84",
       "amount": 144.68,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-01T04:06:03"
     },
     {
       "_id": "6166cfcfc9b130c61bbea0a7",
       "amount": 224.77,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-02T01:40:24"
     },
     {
       "_id": "6166cfcfe839544d52d3d069",
       "amount": 486.28,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-21T08:35:25"
     },
     {
       "_id": "6166cfcf829b8913fb2a2a5e",
       "amount": 155.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-19T11:47:07"
     },
     {
       "_id": "6166cfcfd6e4568f124a4eda",
       "amount": 455.85,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-30T09:21:33"
     },
     {
       "_id": "6166cfcf92771f1b3f0acbd1",
       "amount": 56.27,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-02T07:13:05"
     },
     {
       "_id": "6166cfcfcec3d4a9720c0866",
       "amount": 258.26,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-17T01:35:37"
     },
     {
       "_id": "6166cfcf01f87f79816b65a4",
       "amount": 366.99,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-08T06:16:41"
     },
     {
       "_id": "6166cfcfcf08348094a56339",
       "amount": 482.7,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-29T03:21:54"
     },
     {
       "_id": "6166cfcfdeb8df740e7b6912",
       "amount": 186.3,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-30T03:37:04"
     },
     {
       "_id": "6166cfcf966f57ee2235bfc8",
       "amount": 476.57,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-02T11:47:27"
     },
     {
       "_id": "6166cfcf0169b9e95deccdcc",
       "amount": 440.34,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-19T12:44:06"
     },
     {
       "_id": "6166cfcf5131beb6a4687b63",
       "amount": 435.37,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-03T06:30:32"
     },
     {
       "_id": "6166cfcfda974479799bc1cf",
       "amount": 199.14,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-31T03:23:33"
     },
     {
       "_id": "6166cfcf39d34cb6c1b8f1f7",
       "amount": 427.71,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-16T08:29:12"
     },
     {
       "_id": "6166cfcf61510c2401eb161d",
       "amount": 253.72,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-11T07:36:26"
     },
     {
       "_id": "6166cfcfcb0b4ea3ed62c8e3",
       "amount": 289.94,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-23T01:53:19"
     },
     {
       "_id": "6166cfcfb7fb13c18737ce18",
       "amount": 340.71,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-10T01:29:41"
     },
     {
       "_id": "6166cfcf86617a627b410a53",
       "amount": 219.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-30T10:38:53"
     },
     {
       "_id": "6166cfcf5889c88326eef17a",
       "amount": 251.54,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-11T12:50:47"
     },
     {
       "_id": "6166cfcf5946385f982ffcec",
       "amount": 322.94,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-05T12:00:23"
     },
     {
       "_id": "6166cfcfdc4ae5cc71e892e2",
       "amount": 107.63,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-20T08:44:01"
     },
     {
       "_id": "6166cfcf02adfad287e0f25d",
       "amount": 286.21,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-08T05:15:54"
     },
     {
       "_id": "6166cfcf49a3627e80b9ebfe",
       "amount": 348.56,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-12T09:40:24"
     },
     {
       "_id": "6166cfcf39b473947eb5e5ac",
       "amount": 120.43,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-13T02:16:36"
     },
     {
       "_id": "6166cfcfafdd4af916a50d2a",
       "amount": 327.48,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-26T11:50:37"
     },
     {
       "_id": "6166cfcfdf3374c7bed53667",
       "amount": 417.2,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-04T05:49:44"
     },
     {
       "_id": "6166cfcf71474330d0ccdb4c",
       "amount": 227.11,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-02T02:21:43"
     },
     {
       "_id": "6166cfcf80c85eea1b6cff5e",
       "amount": 448.3,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-05T02:36:10"
     },
     {
       "_id": "6166cfcf3458338b8efb1737",
       "amount": 118.47,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-25T07:10:16"
     },
     {
       "_id": "6166cfcf57f34edb615daf09",
       "amount": 2.23,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-16T03:32:14"
     },
     {
       "_id": "6166cfcf4afbb3b797a709a2",
       "amount": 176.66,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-14T06:28:14"
     },
     {
       "_id": "6166cfcf4a973b1ee64b6732",
       "amount": 353.16,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-24T04:42:33"
     },
     {
       "_id": "6166cfcf90aaf45569b71fdc",
       "amount": 12.15,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-31T08:06:37"
     },
     {
       "_id": "6166cfcf6fed552b270d5900",
       "amount": 104.73,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-10T09:52:06"
     },
     {
       "_id": "6166cfcf67537c232aa597f1",
       "amount": 225.64,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-15T01:53:30"
     },
     {
       "_id": "6166cfcf00b3844d1686936d",
       "amount": 486.74,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-17T03:54:01"
     },
     {
       "_id": "6166cfcffdbcf15e9d18d79c",
       "amount": 150.15,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-25T04:19:37"
     },
     {
       "_id": "6166cfcf45552a8f97b670cc",
       "amount": 291.76,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-23T08:26:26"
     },
     {
       "_id": "6166cfcfcf37a7375a5dc83d",
       "amount": 62.88,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-21T10:01:53"
     },
     {
       "_id": "6166cfcfb0e65a6c2637e688",
       "amount": 88.73,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-27T10:23:08"
     },
     {
       "_id": "6166cfcfb243089bce7e8389",
       "amount": 182.87,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-15T11:36:59"
     },
     {
       "_id": "6166cfcf1403035089be8957",
       "amount": 25.02,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-20T02:06:31"
     },
     {
       "_id": "6166cfcf1dc45016ab7c213e",
       "amount": 183.09,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-23T07:15:19"
     },
     {
       "_id": "6166cfcfbd3a3b932d96b7f1",
       "amount": 452.09,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-23T12:42:45"
     },
     {
       "_id": "6166cfcf635339f6a0db669f",
       "amount": 250.76,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-17T02:10:46"
     },
     {
       "_id": "6166cfcf83ee341da2d9dd39",
       "amount": 308.13,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-18T08:19:48"
     },
     {
       "_id": "6166cfcf38ab3183bcddf968",
       "amount": 189.45,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-07T02:34:28"
     },
     {
       "_id": "6166cfcf7ea3aec44128438f",
       "amount": 10.65,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-16T02:40:12"
     },
     {
       "_id": "6166cfcf0b830cd9464ff04d",
       "amount": 39.85,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-17T10:01:00"
     },
     {
       "_id": "6166cfcf85f675c97c391e2b",
       "amount": 379.46,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-04T04:46:56"
     },
     {
       "_id": "6166cfcfcb043724a0b632c3",
       "amount": 201.51,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-27T02:08:06"
     },
     {
       "_id": "6166cfcf2956bd037c25d505",
       "amount": 493.9,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-06T07:18:02"
     },
     {
       "_id": "6166cfcf56645b04a79db3f0",
       "amount": 120.83,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-02T06:18:19"
     },
     {
       "_id": "6166cfcf1e2b72bcb9662016",
       "amount": 312.02,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-18T06:18:06"
     },
     {
       "_id": "6166cfcf523a4a280639b2cc",
       "amount": 498.38,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-01T01:43:59"
     },
     {
       "_id": "6166cfcfeaf2b8af97159edc",
       "amount": 45.63,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-07T03:21:49"
     },
     {
       "_id": "6166cfcf7148544b347e8302",
       "amount": 423.28,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-22T05:06:33"
     },
     {
       "_id": "6166cfcf2bd12ccd500fe9e1",
       "amount": 443.7,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-27T11:16:43"
     },
     {
       "_id": "6166cfcf1168430ec406c430",
       "amount": 165.03,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-31T06:10:19"
     },
     {
       "_id": "6166cfcfb0cfdf96c75b6ea8",
       "amount": 297.47,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-29T05:29:22"
     },
     {
       "_id": "6166cfcf7e044bc1e3851550",
       "amount": 181.5,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-17T07:43:29"
     },
     {
       "_id": "6166cfcfa47068d47c53e671",
       "amount": 150.96,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-27T02:20:24"
     },
     {
       "_id": "6166cfcff9cf5ceea62d2f5f",
       "amount": 222.07,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-15T05:35:38"
     },
     {
       "_id": "6166cfcf4723774889d18c02",
       "amount": 208.46,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-01T01:51:54"
     },
     {
       "_id": "6166cfcfee2083608670effc",
       "amount": 201.37,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-22T09:30:19"
     },
     {
       "_id": "6166cfcfa247c749253b9ac3",
       "amount": 410.85,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-04T04:26:30"
     },
     {
       "_id": "6166cfcf53644ebe30d3ab67",
       "amount": 272.81,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-13T03:31:22"
     },
     {
       "_id": "6166cfcf850dcf478df5aae9",
       "amount": 186.55,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-06T01:03:01"
     },
     {
       "_id": "6166cfcf2121598465a25edc",
       "amount": 84.42,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-10T03:00:43"
     },
     {
       "_id": "6166cfcfb103c30d935df308",
       "amount": 13.74,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-23T04:26:05"
     },
     {
       "_id": "6166cfcf5c72b947d09b9f29",
       "amount": 358.31,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-18T12:24:49"
     },
     {
       "_id": "6166cfcf21f6ab34ba0405cf",
       "amount": 331.15,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-26T04:36:57"
     },
     {
       "_id": "6166cfcf3231c53322e3a26d",
       "amount": 290.99,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-14T09:34:36"
     },
     {
       "_id": "6166cfcff7242a811d96ed38",
       "amount": 192.57,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-21T07:41:35"
     },
     {
       "_id": "6166cfcfa0394b018217a021",
       "amount": 153.14,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-20T01:43:34"
     },
     {
       "_id": "6166cfcfef31c8dc48ea323e",
       "amount": 63.42,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-02T03:26:48"
     },
     {
       "_id": "6166cfcf0b091689c4b4b433",
       "amount": 306.72,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-19T10:57:09"
     },
     {
       "_id": "6166cfcf13955fd405e9ffe7",
       "amount": 343.99,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-01T10:09:21"
     },
     {
       "_id": "6166cfcff6e9772095a23e8c",
       "amount": 206.49,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-26T01:02:02"
     },
     {
       "_id": "6166cfcf22927965574282f9",
       "amount": 52.88,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-08T09:20:05"
     },
     {
       "_id": "6166cfcffe6229614e0164bf",
       "amount": 484.28,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-03T04:33:27"
     },
     {
       "_id": "6166cfcf764768a4d981c7f1",
       "amount": 230.26,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-21T12:01:42"
     },
     {
       "_id": "6166cfcfc91fe56139992ee8",
       "amount": 12.89,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-11T08:52:34"
     },
     {
       "_id": "6166cfcf6d723fce671c2882",
       "amount": 109.49,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-22T02:04:41"
     },
     {
       "_id": "6166cfcf5b406837a3634719",
       "amount": 295.34,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-20T01:04:05"
     },
     {
       "_id": "6166cfcf8be4f7e2cb217eae",
       "amount": 216.8,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-09T12:04:21"
     },
     {
       "_id": "6166cfcf7267b8ed80352622",
       "amount": 495.68,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-20T05:17:49"
     },
     {
       "_id": "6166cfcfc322df93ee9ab399",
       "amount": 271.73,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-06T12:23:08"
     },
     {
       "_id": "6166cfcf334062ae99cc0829",
       "amount": 1.91,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-28T03:27:35"
     },
     {
       "_id": "6166cfcf50c397af39e38eb7",
       "amount": 462.19,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-17T01:04:37"
     },
     {
       "_id": "6166cfcf25ec22b39bef645d",
       "amount": 448.31,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-20T04:09:39"
     },
     {
       "_id": "6166cfcf50621cf4120d08e1",
       "amount": 165.04,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-05T10:36:43"
     },
     {
       "_id": "6166cfcf87eeea906469ba83",
       "amount": 14.22,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-14T06:56:17"
     },
     {
       "_id": "6166cfcf5d03ef4e25ccabc4",
       "amount": 237.89,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-23T05:39:27"
     },
     {
       "_id": "6166cfcfb39573676995545d",
       "amount": 239.6,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-08T11:35:40"
     },
     {
       "_id": "6166cfcf24d9ccce5f999633",
       "amount": 246.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-14T05:50:29"
     },
     {
       "_id": "6166cfcfac689d5cc65e3da8",
       "amount": 492.34,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-03T05:54:17"
     },
     {
       "_id": "6166cfcfc0022c9204289243",
       "amount": 184.11,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-10T04:07:55"
     },
     {
       "_id": "6166cfcf4a4eec606e38cb6c",
       "amount": 489.07,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-18T02:59:32"
     },
     {
       "_id": "6166cfcf825986a43d3688cd",
       "amount": 102.86,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-17T04:26:47"
     },
     {
       "_id": "6166cfcff61e81acc5b53142",
       "amount": 281.73,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-04T09:15:16"
     },
     {
       "_id": "6166cfcf1aa05bd0d5679e9e",
       "amount": 490.62,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-13T03:33:58"
     },
     {
       "_id": "6166cfcf5850f09b094038ab",
       "amount": 43.8,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-06T08:10:01"
     },
     {
       "_id": "6166cfcf28c8f2741a1e9dd2",
       "amount": 96.67,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-19T10:09:46"
     },
     {
       "_id": "6166cfcf4a9e8df7a09bbb21",
       "amount": 216.62,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-03T10:29:42"
     },
     {
       "_id": "6166cfcf33be3bb27b2abcd3",
       "amount": 57.55,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-25T07:25:20"
     },
     {
       "_id": "6166cfcf9eb39b3fed87d302",
       "amount": 271.61,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-16T03:50:23"
     },
     {
       "_id": "6166cfcfc386c170e38b1244",
       "amount": 386.9,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-05T07:14:45"
     },
     {
       "_id": "6166cfcf5c51d79d06df9dc5",
       "amount": 141.75,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-04T06:15:50"
     },
     {
       "_id": "6166cfcf34a0cb9cf511413f",
       "amount": 151.33,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-07T12:10:49"
     },
     {
       "_id": "6166cfcf4f04663dcd7299ee",
       "amount": 495.41,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-27T10:01:05"
     },
     {
       "_id": "6166cfcf4a360814d5d8608b",
       "amount": 96.44,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-14T01:19:29"
     },
     {
       "_id": "6166cfcf8bb32514df1f88d1",
       "amount": 146.5,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-11T09:15:53"
     },
     {
       "_id": "6166cfcf0835b979bfdb751b",
       "amount": 433.39,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-27T03:04:03"
     },
     {
       "_id": "6166cfcfadf0d78a353fbb6d",
       "amount": 28.72,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-26T12:54:31"
     },
     {
       "_id": "6166cfcf37dcc6c44bb58998",
       "amount": 425.88,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-06T06:12:39"
     },
     {
       "_id": "6166cfcf930884ef404c7298",
       "amount": 135.51,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-03T08:29:37"
     },
     {
       "_id": "6166cfcf60f4c3d25fecc32e",
       "amount": 109.72,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-17T05:39:26"
     },
     {
       "_id": "6166cfcf24850f40d5ecbb0e",
       "amount": 416.37,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-06T09:03:14"
     },
     {
       "_id": "6166cfcf91e1b3da280e7cc1",
       "amount": 107.15,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-05T05:39:51"
     },
     {
       "_id": "6166cfcfb53f5e5660a67e62",
       "amount": 196.99,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-28T10:57:15"
     },
     {
       "_id": "6166cfcf7e645317c6d62ccc",
       "amount": 437.14,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-25T08:03:01"
     },
     {
       "_id": "6166cfcfd42684cb1b74f2be",
       "amount": 423.55,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-27T06:03:34"
     },
     {
       "_id": "6166cfcf53e99ad1b5eb407c",
       "amount": 261.58,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-04T06:47:59"
     },
     {
       "_id": "6166cfcf8791be8f3862ea9e",
       "amount": 197.75,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-06T07:12:45"
     },
     {
       "_id": "6166cfcf192df18d021752c8",
       "amount": 239.65,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-25T03:33:49"
     },
     {
       "_id": "6166cfcf2e1a91115e2dd050",
       "amount": 72.68,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-04T01:53:05"
     },
     {
       "_id": "6166cfcf3d37e8be71ae6770",
       "amount": 466.88,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-19T09:24:36"
     },
     {
       "_id": "6166cfcf979b1e0789e7791d",
       "amount": 427.97,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-29T07:12:35"
     },
     {
       "_id": "6166cfcfe52c754270d366b2",
       "amount": 23.56,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-10T12:34:09"
     },
     {
       "_id": "6166cfcf58548d6bfcd5348c",
       "amount": 444.09,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-02-08T10:11:34"
     },
     {
       "_id": "6166cfcfb4148bec21d5ce3d",
       "amount": 317.35,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-18T11:32:42"
     },
     {
       "_id": "6166cfcfb128e9b0c6e7e3c1",
       "amount": 290.53,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-05T09:02:21"
     },
     {
       "_id": "6166cfcf1524b5d0038b2111",
       "amount": 388.44,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-15T10:20:49"
     },
     {
       "_id": "6166cfcf1902f8d7537a1fcd",
       "amount": 110.87,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-03T04:27:57"
     },
     {
       "_id": "6166cfcffd287c79574a63d8",
       "amount": 444.06,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-22T08:45:26"
     },
     {
       "_id": "6166cfcf82ffeac18877f41e",
       "amount": 454.51,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-17T05:29:43"
     },
     {
       "_id": "6166cfcf3be1f6aa14187c82",
       "amount": 210.89,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-16T12:06:59"
     },
     {
       "_id": "6166cfcf8eb44d5f27e2c31c",
       "amount": 426.1,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-11T01:10:51"
     },
     {
       "_id": "6166cfcf8efdca190716df32",
       "amount": 90.05,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-18T12:35:22"
     },
     {
       "_id": "6166cfcfd1a935bfc928aaec",
       "amount": 373.65,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-10T07:00:29"
     },
     {
       "_id": "6166cfcfe5c4dc5384dbe6de",
       "amount": 477.61,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-10T04:58:29"
     },
     {
       "_id": "6166cfcfa08b71efe073bb1c",
       "amount": 491.39,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-26T08:51:28"
     },
     {
       "_id": "6166cfcf9202d2400c289bd4",
       "amount": 7.15,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-28T05:00:07"
     },
     {
       "_id": "6166cfcfef79711017e8e3ac",
       "amount": 33.25,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-12T05:56:32"
     },
     {
       "_id": "6166cfcf34e208bee578d364",
       "amount": 191,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-21T07:29:53"
     },
     {
       "_id": "6166cfcfe29fad6efad0c6e4",
       "amount": 9.01,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-14T11:59:58"
     },
     {
       "_id": "6166cfcf28d30728519bc8aa",
       "amount": 454.89,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-26T05:31:40"
     },
     {
       "_id": "6166cfcfcc208f93c195b9b6",
       "amount": 142.61,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-28T10:12:55"
     },
     {
       "_id": "6166cfcfaa57c44e67a3efc0",
       "amount": 356.02,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-06-11T02:54:06"
     },
     {
       "_id": "6166cfcf80053239bff8c9c1",
       "amount": 428.08,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-06T07:54:22"
     },
     {
       "_id": "6166cfcf4147e2648919a84e",
       "amount": 415.74,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-03T02:47:31"
     },
     {
       "_id": "6166cfcff57c8fa9f8269a6d",
       "amount": 271.41,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-31T02:42:49"
     },
     {
       "_id": "6166cfcf7f2eeafd04165cf4",
       "amount": 344.11,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-28T09:03:49"
     },
     {
       "_id": "6166cfcf8b784b16c1683ef2",
       "amount": 280.96,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-28T07:22:08"
     },
     {
       "_id": "6166cfcffe8c114203c16402",
       "amount": 127.58,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-09T02:34:53"
     },
     {
       "_id": "6166cfcf573fb89dbf191101",
       "amount": 233.25,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-21T01:35:05"
     },
     {
       "_id": "6166cfcf9ccbe8344676460c",
       "amount": 496.12,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-19T05:51:37"
     },
     {
       "_id": "6166cfcf1f08991e8b766d58",
       "amount": 479.69,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-03T11:13:58"
     },
     {
       "_id": "6166cfcf5b420ad848fcc7e7",
       "amount": 394.21,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-15T12:47:05"
     },
     {
       "_id": "6166cfcf3958f9c2b461e4b5",
       "amount": 348.33,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-31T12:34:09"
     },
     {
       "_id": "6166cfcf03f811d9803e601c",
       "amount": 357.6,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-09T12:47:09"
     },
     {
       "_id": "6166cfcfbeca4dd7ea5d3949",
       "amount": 94.33,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-30T12:45:12"
     },
     {
       "_id": "6166cfcf64a90e58c9a27287",
       "amount": 151.65,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-03T11:06:40"
     },
     {
       "_id": "6166cfcfdae9652aa88d43ec",
       "amount": 255.44,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-08T01:02:32"
     },
     {
       "_id": "6166cfcf522cea34b327ac0c",
       "amount": 242.25,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-22T05:51:22"
     },
     {
       "_id": "6166cfcf9d43e3d4b4707fee",
       "amount": 228.76,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-21T06:12:35"
     },
     {
       "_id": "6166cfcf35f73e0a0310af16",
       "amount": 275.41,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-04-08T03:27:00"
     },
     {
       "_id": "6166cfcf079601762ffb04fc",
       "amount": 138.86,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-25T09:44:42"
     },
     {
       "_id": "6166cfcf0d06c8d9dc8bd4a9",
       "amount": 468.9,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-18T12:42:51"
     },
     {
       "_id": "6166cfcf9af1ccee1a28b708",
       "amount": 262.32,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-14T05:08:39"
     },
     {
       "_id": "6166cfcf8c8ffa0dc559ec44",
       "amount": 82.31,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-21T06:56:30"
     },
     {
       "_id": "6166cfcfac02502b6475df45",
       "amount": 70.78,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-04-21T10:14:01"
     },
     {
       "_id": "6166cfcf2491cdd1128ae5d0",
       "amount": 498.36,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-28T08:30:30"
     },
     {
       "_id": "6166cfcf9686b4352b1a2b5a",
       "amount": 426.91,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-28T06:47:40"
     },
     {
       "_id": "6166cfcffcb84ae90a6d808b",
       "amount": 385.24,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-08-24T02:40:11"
     },
     {
       "_id": "6166cfcfc3954a8603b3b7bc",
       "amount": 460.95,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-07-21T09:53:20"
     },
     {
       "_id": "6166cfcf507a33c301dc3d99",
       "amount": 443.44,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-02T03:38:58"
     },
     {
       "_id": "6166cfcfa92ff29a9296f91c",
       "amount": 273.71,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-06-20T04:58:57"
     },
     {
       "_id": "6166cfcf45063c0a8fc2b92e",
       "amount": 183.76,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-19T03:23:52"
     },
     {
       "_id": "6166cfcfedd6d7ab80e41230",
       "amount": 17.13,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-05-03T05:58:34"
     },
     {
       "_id": "6166cfcf83ad1db6a7be338e",
       "amount": 56.08,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-09T05:15:21"
     },
     {
       "_id": "6166cfcfe6c09e1451f31a13",
       "amount": 230.69,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-05-14T06:23:59"
     },
     {
       "_id": "6166cfcf075b8c04c6f8982c",
       "amount": 301.3,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-21T07:33:44"
     },
     {
       "_id": "6166cfcf73d2888eb5142fde",
       "amount": 467.85,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-31T01:57:15"
     },
     {
       "_id": "6166cfcf720d0dd371aa15d7",
       "amount": 355.47,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-09-20T09:39:38"
     },
     {
       "_id": "6166cfcff944910d68ae14c6",
       "amount": 61.55,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-29T03:02:23"
     },
     {
       "_id": "6166cfcfcdd476ee92bdf959",
       "amount": 212.06,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-08T12:07:03"
     },
     {
       "_id": "6166cfcf4a1730914f2a1f94",
       "amount": 443.82,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-10T10:42:00"
     },
     {
       "_id": "6166cfcfb2753c3d21bd24ab",
       "amount": 477.98,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-17T05:12:52"
     },
     {
       "_id": "6166cfcf38ea4cad54775f28",
       "amount": 247.53,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-06T12:09:35"
     },
     {
       "_id": "6166cfcffda50d38b5893a20",
       "amount": 26.08,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-01T05:18:54"
     },
     {
       "_id": "6166cfcfae1c78d49c546f78",
       "amount": 130.88,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-06-30T07:38:26"
     },
     {
       "_id": "6166cfcf55d2e58db47c31ab",
       "amount": 199.27,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-28T04:22:55"
     },
     {
       "_id": "6166cfcfb73a338b9411f5e3",
       "amount": 185.45,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-14T10:07:58"
     },
     {
       "_id": "6166cfcf8517d5610d5a8651",
       "amount": 409.67,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-05-21T06:26:10"
     },
     {
       "_id": "6166cfcf7e860391a7cf6903",
       "amount": 37.81,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-12T08:41:42"
     },
     {
       "_id": "6166cfcf2d1a749c491c2b97",
       "amount": 388.89,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-02-18T10:24:31"
     },
     {
       "_id": "6166cfcfe3344f7f52bed21c",
       "amount": 494.86,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-16T05:43:35"
     },
     {
       "_id": "6166cfcf5e4621893f098e7c",
       "amount": 60.13,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-15T01:14:23"
     },
     {
       "_id": "6166cfcfa3ab716dd989d4b5",
       "amount": 396.3,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-08-26T10:21:49"
     },
     {
       "_id": "6166cfcfb2b690de86cedb65",
       "amount": 245.03,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-01T02:17:26"
     },
     {
       "_id": "6166cfcf4a43324f193ac81e",
       "amount": 458.69,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-10T11:14:49"
     },
     {
       "_id": "6166cfcf8b4bf38776ff8bb0",
       "amount": 65.56,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-27T11:25:35"
     },
     {
       "_id": "6166cfcfea503fcd2faef3fe",
       "amount": 362.24,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-19T04:56:45"
     },
     {
       "_id": "6166cfcf82c5f955c6e9466d",
       "amount": 34.56,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-03-28T08:56:41"
     },
     {
       "_id": "6166cfcf95bbc492a70d3ec2",
       "amount": 486.37,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-02-06T12:52:00"
     },
     {
       "_id": "6166cfcf64873aaf861e93e6",
       "amount": 443.74,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-11T12:04:47"
     },
     {
       "_id": "6166cfcfc528e6ad8a086876",
       "amount": 198.34,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-04-26T02:53:26"
     },
     {
       "_id": "6166cfcfeef973dba1248c05",
       "amount": 476.65,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-01-25T05:00:17"
     },
     {
       "_id": "6166cfcfd71e4ced1810db77",
       "amount": 57.41,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-03T08:22:03"
     },
     {
       "_id": "6166cfcfbeb139b4c337fba9",
       "amount": 377.57,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-06-15T05:41:07"
     },
     {
       "_id": "6166cfcf1cfe95e55fdcdaf1",
       "amount": 273.01,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-18T11:46:19"
     },
     {
       "_id": "6166cfcf86fcaa12df552aaf",
       "amount": 99.56,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-08T05:32:00"
     },
     {
       "_id": "6166cfcf23b1852e36c75e52",
       "amount": 34.04,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-20T05:25:47"
     },
     {
       "_id": "6166cfcf7a4f537ed329e65a",
       "amount": 127.81,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-09T01:12:55"
     },
     {
       "_id": "6166cfcf001ad973aa31af30",
       "amount": 320.99,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-01-24T12:01:11"
     },
     {
       "_id": "6166cfcf3ed95a43e2e9f1ac",
       "amount": 430.55,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-01-25T02:41:25"
     },
     {
       "_id": "6166cfcf7440793a322ff2f2",
       "amount": 45.45,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-03T01:39:07"
     },
     {
       "_id": "6166cfcf16a93bf860970258",
       "amount": 161.98,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-05-23T07:43:25"
     },
     {
       "_id": "6166cfcf41df6179a1cd0cff",
       "amount": 427.51,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-09-08T12:54:10"
     },
     {
       "_id": "6166cfcf421043b40d4d84f8",
       "amount": 53.03,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-03-18T04:47:59"
     },
     {
       "_id": "6166cfcf884fa068237f4446",
       "amount": 430.45,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-03-28T11:16:29"
     },
     {
       "_id": "6166cfcf51af9d098d9ed0c7",
       "amount": 219.66,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-01-27T11:38:58"
     },
     {
       "_id": "6166cfcfcf0b00da0c04e6ea",
       "amount": 301.21,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-01T07:18:11"
     },
     {
       "_id": "6166cfcf9200f51a2d0e995d",
       "amount": 357.36,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-07-12T12:16:44"
     },
     {
       "_id": "6166cfcf01d06956ec9ff2ac",
       "amount": 304.7,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-04-11T10:41:43"
     },
     {
       "_id": "6166cfcfb82090ccf4e3d137",
       "amount": 70.39,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-07-14T06:27:16"
     },
     {
       "_id": "6166cfcf97dab194e7120b5b",
       "amount": 383.04,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-03-03T08:01:33"
     },
     {
       "_id": "6166cfcfaa6173b51ecd3752",
       "amount": 119.77,
-      "userId": "Lucas.Piedrahita",
+      "customerId": "Lucas.Piedrahita",
       "date": "2021-07-31T07:58:52"
     },
     {
       "_id": "6166cfcf003e76c9a768dc22",
       "amount": 93.68,
-      "userId": "Campbell.Bolton",
+      "customerId": "Campbell.Bolton",
       "date": "2021-08-21T02:25:56"
     },
     {
       "_id": "6166cfcfe8d1bf1f3c3f1466",
       "amount": 105.63,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-02-25T10:14:41"
     },
     {
       "_id": "6166cfcf8c9ed91e037d6a61",
       "amount": 450.5,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-08-23T01:14:09"
     },
     {
       "_id": "6166cfcffd8b9851960c5cfd",
       "amount": 184.87,
-      "userId": "Dianne.Ellis",
+      "customerId": "Dianne.Ellis",
       "date": "2021-09-19T10:28:49"
     },
     {
       "_id": "6166cfcf2db8cc4d8c88a8c4",
       "amount": 379.16,
-      "userId": "Erika.Murphy",
+      "customerId": "Erika.Murphy",
       "date": "2021-09-07T12:41:42"
     }
   ]
