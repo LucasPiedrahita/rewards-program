@@ -1,5 +1,6 @@
 import React from 'react'
 import getMonthNameByNumber from '../utils/getMonthNameByNumber'
+import { StyledDateSelectionForm } from '../styles/DateSelectionForm.styled'
 
 const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
   const transactionMonths = [
@@ -15,15 +16,16 @@ const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
       }
     })
   return (
-    <form>
-      <select value={firstMonth} name='dateSelection' onChange={onChange}>
+    <StyledDateSelectionForm>
+      <label htmlFor='dateSelection'>Select a three-month period:</label>
+      <select value={firstMonth} id='dateSelection' name='dateSelection' onChange={onChange}>
         {selectionOptions.map(({ label, firstMonth }) => (
           <option key={firstMonth} value={firstMonth}>
             {label}
           </option>
         ))}
       </select>
-    </form>
+    </StyledDateSelectionForm>
   )
 }
 

@@ -4,6 +4,9 @@ import DateSelectionForm from './components/DateSelectionForm'
 import transactionService from './services/transactions'
 import calculateRewardsForAllCustomers from './utils/calculateRewards'
 import getMonthNameByNumber from './utils/getMonthNameByNumber'
+import GlobalStyles from './styles/Global.styled'
+import { ThemeProvider } from 'styled-components'
+import { Container } from './styles/Container.styled'
 
 const App = () => {
   const [transactions, setTransactions] = useState([])
@@ -25,6 +28,11 @@ const App = () => {
     setCustomers(customers)
   }, [transactions, firstMonth])
 
+  /**
+   * Function that updates state for firstMonth and selectedMonths based on DateSelectionForm change
+   * @author   Lucas Piedrahita
+   * @param    {Object} event    onChange event
+   */
   const onDateSelection = (event) => {
     const firstMonth = parseInt(event.target.value)
     setFirstMonth(firstMonth)
@@ -35,16 +43,38 @@ const App = () => {
     ])
   }
 
+  const theme = {
+    colors: {
+      white: '#fff',
+      lightAccent: '#0099d8',
+      main: '#2a5c9e',
+      darkAccent: '#001d38',
+      darkGrey: '#333',
+      action: '#f66200',
+      black: '#2c2c2c',
+    },
+  }
+
   return (
-    <div>
-      <h1>Rewards Program Calculator</h1>
-      <DateSelectionForm
-        transactions={transactions}
-        onChange={onDateSelection}
-        firstMonth={firstMonth}
-      />
-      <DisplayCustomers customers={customers} selectedMonths={selectedMonths} />
-    </div>
+    <ThemeProvider theme={theme}>
+      <>
+        <GlobalStyles />
+        <Container bg={theme.colors.darkAccent}>
+          <h1>Rewards Program Calculator</h1>
+        </Container>
+        <Container bg={theme.colors.white}>
+          <DateSelectionForm
+            transactions={transactions}
+            onChange={onDateSelection}
+            firstMonth={firstMonth}
+          />
+          <DisplayCustomers customers={customers} selectedMonths={selectedMonths} />
+        </Container>
+        <Container bg={theme.colors.darkGrey}>
+          <footer>Placeholder footer text</footer>
+        </Container>
+      </>
+    </ThemeProvider>
   )
 }
 
