@@ -6,7 +6,7 @@
  * @param    {Number} amount    Transaction amount
  * @return   {Number}           Reward points for single transaction
  */
-const calculateRewardsForOneAmount = (amount) => {
+export const calculateRewardsForOneAmount = (amount) => {
   // A customer receives 2 points for every dollar spent over $100 in each transaction,
   // plus 1 point for every dollar spent over $50 in each transaction
   if (amount < 51) return 0
@@ -21,7 +21,7 @@ const calculateRewardsForOneAmount = (amount) => {
  * @param    {Number} month         Zero-based month number, where January is zero
  * @return   {Number}               Total reward points for all transactions in the given month
  */
-const calculateRewardsForOneMonth = (transactions, month) => {
+export const calculateRewardsForOneMonth = (transactions, month) => {
   return transactions
     .filter((transaction) => new Date(transaction.date).getMonth() === month)
     .reduce(
@@ -40,7 +40,7 @@ const calculateRewardsForOneMonth = (transactions, month) => {
  * @param    {Number} firstMonth    Zero-based month number of the first month in the three-month period, where January is zero
  * @return   {<{customerId: String, firstMonthRewards: Number, secondMonthRewards: Number, thirdMonthRewards: Number, totalRewards: Number}>}               Object of the customer's unique ID, reward totals for each of the three months, and reward total for all three months together
  */
-const calculateRewardsForOneCustomer = (transactions, customerId, firstMonth) => {
+export const calculateRewardsForOneCustomer = (transactions, customerId, firstMonth) => {
   const customerTransactions = transactions.filter(
     (transaction) => transaction.customerId === customerId
   )
@@ -66,7 +66,7 @@ const calculateRewardsForOneCustomer = (transactions, customerId, firstMonth) =>
  * @param    {Number} firstMonth    Zero-based month number of the first month in the three-month period, where January is zero
  * @return   {Array.<{customerId: String, firstMonthRewards: Number, secondMonthRewards: Number, thirdMonthRewards: Number, totalRewards: Number}>}  Array of objects that have each customers' unique ID and their reward totals for each of the three months and reward total for all three months together
  */
-const calculateRewardsForAllCustomers = (transactions, customerIds, firstMonth) => {
+export const calculateRewardsForAllCustomers = (transactions, customerIds, firstMonth) => {
   return customerIds.map((customerId) =>
     calculateRewardsForOneCustomer(transactions, customerId, firstMonth)
   )
