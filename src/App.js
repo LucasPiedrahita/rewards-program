@@ -63,11 +63,7 @@ const App = () => {
           <h1>Rewards Program Calculator</h1>
         </Container>
         <Container bg={theme.colors.white}>
-          <DateSelectionForm
-            transactions={transactions}
-            onChange={onDateSelection}
-            firstMonth={firstMonth}
-          />
+          <DateSelectionForm onChange={onDateSelection} firstMonth={firstMonth} />
           <DisplayCustomers customers={customers} selectedMonths={selectedMonths} />
         </Container>
         <Container bg={theme.colors.darkGrey}>
