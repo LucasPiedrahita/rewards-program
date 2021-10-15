@@ -1,5 +1,5 @@
 import React from 'react'
-import getMonthNameByNumber from '../utils/getMonthNameByNumber'
+import { getMonthNameByNumber } from '../utils/dateUtils'
 import { StyledDateSelectionForm } from '../styles/DateSelectionForm.styled'
 
 const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
