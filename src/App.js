@@ -6,7 +6,7 @@ import calculateRewardsForAllCustomers from './utils/calculateRewards'
 import { getMonthNameByNumber } from './utils/dateUtils'
 import GlobalStyles from './styles/Global.styled'
 import { ThemeProvider } from 'styled-components'
-import { Container } from './styles/Container.styled'
+import Container from './styles/Container.styled'
 
 const App = () => {
   const [transactions, setTransactions] = useState([])

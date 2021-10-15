@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyledDateSelectionForm } from '../styles/DateSelectionForm.styled'
+import StyledDateSelectionForm from '../styles/DateSelectionForm.styled'
 
 const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
   const selectionOptions = [
