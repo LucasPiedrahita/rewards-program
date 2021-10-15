@@ -1,20 +1,20 @@
 import React from 'react'
-import { getMonthNameByNumber } from '../utils/dateUtils'
 import { StyledDateSelectionForm } from '../styles/DateSelectionForm.styled'
 
 const DateSelectionForm = ({ transactions, onChange, firstMonth }) => {
-  const transactionMonths = [
-    ...new Set(transactions.map((transaction) => new Date(transaction.date).getMonth())),
-  ].sort((a, b) => a - b)
-  const finalMonth = transactionMonths[transactionMonths.length - 1]
-  const selectionOptions = transactionMonths
-    .filter((month) => month <= finalMonth - 2)
-    .map((month) => {
-      return {
-        label: `${getMonthNameByNumber(month)} - ${getMonthNameByNumber(month + 2)}`,
-        firstMonth: month,
-      }
-    })
+  const selectionOptions = [
+    { label: 'January - March', firstMonth: 0 },
+    { label: 'February - April', firstMonth: 1 },
+    { label: 'March - May', firstMonth: 2 },
+    { label: 'April - June', firstMonth: 3 },
+    { label: 'May - July', firstMonth: 4 },
+    { label: 'June - August', firstMonth: 5 },
+    { label: 'July - September', firstMonth: 6 },
+    { label: 'August - October', firstMonth: 7 },
+    { label: 'September - November', firstMonth: 8 },
+    { label: 'October - December', firstMonth: 9 },
+  ]
+
   return (
     <StyledDateSelectionForm>
       <label htmlFor='dateSelection'>Select a three-month period:</label>
