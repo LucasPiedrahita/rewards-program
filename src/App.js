@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import DisplayCustomers from './components/DisplayCustomers'
+import DisplayCustomerRewardsTable from './components/DisplayCustomerRewardsTable'
 import DateSelectionForm from './components/DateSelectionForm'
 import transactionService from './services/transactions'
 import calculateRewardsForAllCustomers from './utils/calculateRewards'
@@ -64,7 +64,7 @@ const App = () => {
         </Container>
         <Container bg={theme.colors.white}>
           <DateSelectionForm onChange={onDateSelection} firstMonth={firstMonth} />
-          <DisplayCustomers customers={customers} selectedMonths={selectedMonths} />
+          <DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />
         </Container>
         <Container bg={theme.colors.darkGrey}>
           <footer>Placeholder footer text</footer>

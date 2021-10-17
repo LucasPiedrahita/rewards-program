@@ -1,9 +1,9 @@
 import React from 'react'
 import Table from 'react-bootstrap/Table'
-import StyledDisplayCustomers from '../styles/DisplayCustomers.styled'
+import StyledDisplayCustomerRewardsTable from '../styles/DisplayCustomerRewardsTable.styled'
 
-const DisplayCustomers = ({ customers, selectedMonths }) => (
-  <StyledDisplayCustomers>
+const DisplayCustomerRewardsTable = ({ customers, selectedMonths }) => (
+  <StyledDisplayCustomerRewardsTable>
     <Table striped bordered hover id='customer-rewards-table'>
       <thead>
         <tr id='customer-rewards-header'>
@@ -34,7 +34,7 @@ const DisplayCustomers = ({ customers, selectedMonths }) => (
         )}
       </tbody>
     </Table>
-  </StyledDisplayCustomers>
+  </StyledDisplayCustomerRewardsTable>
 )
 
-export default DisplayCustomers
+export default DisplayCustomerRewardsTable
