@@ -14,7 +14,7 @@ describe('test DateSelectionForm', () => {
     [7, 'August - October'],
     [8, 'September - November'],
     [9, 'October - December'],
-  ])('when firstMonth is %i, %s is selected', (firstMonth, expectedResult) => {
+  ])('when firstMonth is %i, select renders with %s selected', (firstMonth, expectedResult) => {
     render(<DateSelectionForm onChange={jest.fn()} firstMonth={firstMonth} />)
     expect(screen.getByDisplayValue(expectedResult)).toBeInTheDocument()
   })

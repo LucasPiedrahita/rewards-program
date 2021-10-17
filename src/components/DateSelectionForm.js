@@ -2,7 +2,7 @@ import React from 'react'
 import StyledDateSelectionForm from '../styles/DateSelectionForm.styled'
 
 const DateSelectionForm = ({ onChange, firstMonth }) => {
-  const selectionOptions = [
+  const selectOptions = [
     { label: 'January - March', firstMonth: 0 },
     { label: 'February - April', firstMonth: 1 },
     { label: 'March - May', firstMonth: 2 },
@@ -19,7 +19,7 @@ const DateSelectionForm = ({ onChange, firstMonth }) => {
     <StyledDateSelectionForm>
       <label htmlFor='dateSelection'>Select a three-month period:</label>
       <select value={firstMonth} id='dateSelection' name='dateSelection' onChange={onChange}>
-        {selectionOptions.map(({ label, firstMonth }) => (
+        {selectOptions.map(({ label, firstMonth }) => (
           <option key={firstMonth} value={firstMonth}>
             {label}
           </option>
