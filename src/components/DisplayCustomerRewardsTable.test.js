@@ -3,15 +3,20 @@ import { render, screen } from '@testing-library/react'
 import DisplayCustomerRewardsTable from './DisplayCustomerRewardsTable'
 
 describe('test DisplayCustomerRewardsTable', () => {
-  describe('test that "customers" prop affects render correctly', () => {
-    test('when customers is an empty array, no customer rows are rendered', () => {
-      const customers = []
-      render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
+  describe('test that "customerRewardsSummary" prop affects render correctly', () => {
+    test('when customerRewardsSummary is an empty array, no customer rows are rendered', () => {
+      const customerRewardsSummary = []
+      render(
+        <DisplayCustomerRewardsTable
+          customerRewardsSummary={customerRewardsSummary}
+          firstMonth={0}
+        />
+      )
       expect(screen.getByRole('table').querySelector('tbody')).toBeEmptyDOMElement()
     })
 
-    describe('when customers is an array of one valid customer', () => {
-      const customers = [
+    describe('when customerRewardsSummary is an array of one valid customer', () => {
+      const customerRewardsSummary = [
         {
           customerId: 'Customer.Name',
           firstMonthRewards: 1,
@@ -21,7 +26,12 @@ describe('test DisplayCustomerRewardsTable', () => {
         },
       ]
       beforeEach(() => {
-        render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
+        render(
+          <DisplayCustomerRewardsTable
+            customerRewardsSummary={customerRewardsSummary}
+            firstMonth={0}
+          />
+        )
       })
 
       test("the customer's name is rendered", () => {
@@ -49,8 +59,8 @@ describe('test DisplayCustomerRewardsTable', () => {
       })
     })
 
-    describe('when customers is an array of multiple valid customers', () => {
-      const customers = [
+    describe('when customerRewardsSummary is an array of multiple valid customers', () => {
+      const customerRewardsSummary = [
         {
           customerId: 'Joshua.Chung',
           firstMonthRewards: 7987,
@@ -96,16 +106,21 @@ describe('test DisplayCustomerRewardsTable', () => {
       ]
 
       test('all customers are rendered', () => {
-        render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
+        render(
+          <DisplayCustomerRewardsTable
+            customerRewardsSummary={customerRewardsSummary}
+            firstMonth={0}
+          />
+        )
         expect(screen.getByRole('table').querySelector('tbody').querySelectorAll('tr').length).toBe(
-          customers.length
+          customerRewardsSummary.length
         )
       })
     })
   })
 
   describe('test that "firstMonth" prop affects render correctly', () => {
-    const customers = [
+    const customerRewardsSummary = [
       {
         customerId: 'Joshua.Chung',
         firstMonthRewards: 7987,
@@ -134,7 +149,12 @@ describe('test DisplayCustomerRewardsTable', () => {
       [8, ['September', 'October', 'November']],
       [9, ['October', 'November', 'December']],
     ])('when firstMonth is %i, table headers are %s', (firstMonth, expectedTableHeaders) => {
-      render(<DisplayCustomerRewardsTable customers={customers} firstMonth={firstMonth} />)
+      render(
+        <DisplayCustomerRewardsTable
+          customerRewardsSummary={customerRewardsSummary}
+          firstMonth={firstMonth}
+        />
+      )
 
       const firstMonthTableHeaderText = screen
         .getByRole('table')
