@@ -21,7 +21,9 @@ const App = () => {
 
   // set customerRewardsSummary on transaction or firstMonth state change
   useEffect(() => {
-    const customerIds = [...new Set(transactions.map((transaction) => transaction.customerId))]
+    const customerIds = [
+      ...new Set(transactions.map((transaction) => transaction.customerId)),
+    ].sort()
     const customerRewardsSummary = calculateRewardsForAllCustomers(
       transactions,
       customerIds,
