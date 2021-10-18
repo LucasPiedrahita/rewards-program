@@ -33,7 +33,7 @@ const App = () => {
   }, [transactions, firstMonth])
 
   /**
-   * Function that updates state for firstMonth based on DateSelectionForm change
+   * Function that updates state for firstMonth based on DateSelectionForm input change
    * @author   Lucas Piedrahita
    * @param    {Object} event    onChange event
    */
