@@ -7,5 +7,9 @@ const StyledDateSelectionForm = styled.form`
   select {
     margin: 0 1rem;
   }
+
+  label {
+    border-bottom: 2px solid ${({ theme }) => theme.colors.action};
+  }
 `
 export default StyledDateSelectionForm

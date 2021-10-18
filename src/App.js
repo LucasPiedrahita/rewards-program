@@ -55,22 +55,20 @@ const App = () => {
 
   return (
     <ThemeProvider theme={theme}>
-      <>
-        <GlobalStyles />
-        <Container bg={theme.colors.darkAccent}>
-          <h1>Rewards Program Calculator</h1>
-        </Container>
-        <Container bg={theme.colors.white}>
-          <DateSelectionForm onChange={dateSelectionChangeHandler} firstMonth={firstMonth} />
-          <DisplayCustomerRewardsTable
-            customerRewardsSummary={customerRewardsSummary}
-            firstMonth={firstMonth}
-          />
-        </Container>
-        <Container bg={theme.colors.darkGrey}>
-          <footer>Placeholder footer text</footer>
-        </Container>
-      </>
+      <GlobalStyles />
+      <Container bg={theme.colors.darkAccent}>
+        <h1>Rewards Program Calculator</h1>
+      </Container>
+      <Container bg={theme.colors.white}>
+        <DateSelectionForm onChange={dateSelectionChangeHandler} firstMonth={firstMonth} />
+        <DisplayCustomerRewardsTable
+          customerRewardsSummary={customerRewardsSummary}
+          firstMonth={firstMonth}
+        />
+      </Container>
+      <Container bg={theme.colors.darkGrey}>
+        <footer>Placeholder footer text</footer>
+      </Container>
     </ThemeProvider>
   )
 }
