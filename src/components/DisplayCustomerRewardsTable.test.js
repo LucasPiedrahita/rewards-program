@@ -2,7 +2,7 @@ import React from 'react'
 import { render, screen } from '@testing-library/react'
 import DisplayCustomerRewardsTable from './DisplayCustomerRewardsTable'
 
-describe('test DisplayCustomerRewardsTable', () => {
+describe('<DisplayCustomerRewardsTable />', () => {
   describe('test that "customerRewardsSummary" prop affects render correctly', () => {
     test('when customerRewardsSummary is an empty array, no customer rows are rendered', () => {
       const customerRewardsSummary = []

@@ -2,7 +2,7 @@ import React from 'react'
 import { render, screen, fireEvent, act } from '@testing-library/react'
 import DateSelectionForm from './DateSelectionForm'
 
-describe('test DateSelectionForm', () => {
+describe('<DateSelectionForm />', () => {
   test.each([
     [0, 'January - March'],
     [1, 'February - April'],
