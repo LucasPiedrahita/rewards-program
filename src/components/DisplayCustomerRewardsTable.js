@@ -5,8 +5,8 @@ import StyledDisplayCustomerRewardsTable from '../styles/DisplayCustomerRewardsT
 const DisplayCustomerRewardsTable = ({ customers, selectedMonths }) => (
   <StyledDisplayCustomerRewardsTable>
     <Table striped bordered hover id='customer-rewards-table'>
-      <thead>
-        <tr id='customer-rewards-header'>
+      <thead id='customer-rewards-header'>
+        <tr>
           <th className='customer'>Customer</th>
           <th className='first-month'>{selectedMonths[0]}</th>
           <th className='second-month'>{selectedMonths[1]}</th>
