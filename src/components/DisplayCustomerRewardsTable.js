@@ -3,7 +3,7 @@ import Table from 'react-bootstrap/Table'
 import StyledDisplayCustomerRewardsTable from '../styles/DisplayCustomerRewardsTable.styled'
 import { getMonthNameByNumber } from '../utils/dateUtils'
 
-const DisplayCustomerRewardsTable = ({ customers, firstMonth }) => {
+const DisplayCustomerRewardsTable = ({ customerRewardsSummary, firstMonth }) => {
   const selectedMonths = [
     getMonthNameByNumber(firstMonth),
     getMonthNameByNumber(firstMonth + 1),
@@ -22,7 +22,7 @@ const DisplayCustomerRewardsTable = ({ customers, firstMonth }) => {
           </tr>
         </thead>
         <tbody id='customer-rewards-body'>
-          {customers.map(
+          {customerRewardsSummary.map(
             ({
               customerId,
               firstMonthRewards,

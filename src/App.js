@@ -9,7 +9,7 @@ import Container from './styles/Container.styled'
 
 const App = () => {
   const [transactions, setTransactions] = useState([])
-  const [customers, setCustomers] = useState([])
+  const [customerRewardsSummary, setCustomerRewardsSummary] = useState([])
   const [firstMonth, setFirstMonth] = useState(0)
 
   // set initial transactions
@@ -19,11 +19,15 @@ const App = () => {
     })
   }, [])
 
-  // set customers on transaction or firstMonth state change
+  // set customerRewardsSummary on transaction or firstMonth state change
   useEffect(() => {
     const customerIds = [...new Set(transactions.map((transaction) => transaction.customerId))]
-    const customers = calculateRewardsForAllCustomers(transactions, customerIds, firstMonth)
-    setCustomers(customers)
+    const customerRewardsSummary = calculateRewardsForAllCustomers(
+      transactions,
+      customerIds,
+      firstMonth
+    )
+    setCustomerRewardsSummary(customerRewardsSummary)
   }, [transactions, firstMonth])
 
   /**
@@ -56,7 +60,10 @@ const App = () => {
         </Container>
         <Container bg={theme.colors.white}>
           <DateSelectionForm onChange={dateSelectionChangeHandler} firstMonth={firstMonth} />
-          <DisplayCustomerRewardsTable customers={customers} firstMonth={firstMonth} />
+          <DisplayCustomerRewardsTable
+            customerRewardsSummary={customerRewardsSummary}
+            firstMonth={firstMonth}
+          />
         </Container>
         <Container bg={theme.colors.darkGrey}>
           <footer>Placeholder footer text</footer>
