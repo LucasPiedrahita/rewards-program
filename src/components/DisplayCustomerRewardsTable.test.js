@@ -3,13 +3,10 @@ import { render, screen } from '@testing-library/react'
 import DisplayCustomerRewardsTable from './DisplayCustomerRewardsTable'
 
 describe('test DisplayCustomerRewardsTable', () => {
-  // props to test { customers, selectedMonths }
   describe('test that "customers" prop affects render correctly', () => {
-    const selectedMonths = ['January', 'February', 'March']
-
     test('when customers is an empty array, no customer rows are rendered', () => {
       const customers = []
-      render(<DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />)
+      render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
       expect(screen.getByRole('table').querySelector('tbody')).toBeEmptyDOMElement()
     })
 
@@ -24,9 +21,7 @@ describe('test DisplayCustomerRewardsTable', () => {
         },
       ]
       beforeEach(() => {
-        render(
-          <DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />
-        )
+        render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
       })
 
       test("the customer's name is rendered", () => {
@@ -101,9 +96,7 @@ describe('test DisplayCustomerRewardsTable', () => {
       ]
 
       test('all customers are rendered', () => {
-        render(
-          <DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />
-        )
+        render(<DisplayCustomerRewardsTable customers={customers} firstMonth={0} />)
         expect(screen.getByRole('table').querySelector('tbody').querySelectorAll('tr').length).toBe(
           customers.length
         )
@@ -111,7 +104,7 @@ describe('test DisplayCustomerRewardsTable', () => {
     })
   })
 
-  describe('test that "selectedMonths" prop affects render correctly', () => {
+  describe('test that "firstMonth" prop affects render correctly', () => {
     const customers = [
       {
         customerId: 'Joshua.Chung',
@@ -130,18 +123,18 @@ describe('test DisplayCustomerRewardsTable', () => {
     ]
 
     test.each([
-      [['January', 'February', 'March']],
-      [['February', 'March', 'April']],
-      [['March', 'April', 'May']],
-      [['April', 'May', 'June']],
-      [['May', 'June', 'July']],
-      [['June', 'July', 'August']],
-      [['July', 'August', 'September']],
-      [['August', 'September', 'October']],
-      [['September', 'October', 'November']],
-      [['October', 'November', 'December']],
-    ])('selectedMonths %s are rendered as the table headers', (selectedMonths) => {
-      render(<DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />)
+      [0, ['January', 'February', 'March']],
+      [1, ['February', 'March', 'April']],
+      [2, ['March', 'April', 'May']],
+      [3, ['April', 'May', 'June']],
+      [4, ['May', 'June', 'July']],
+      [5, ['June', 'July', 'August']],
+      [6, ['July', 'August', 'September']],
+      [7, ['August', 'September', 'October']],
+      [8, ['September', 'October', 'November']],
+      [9, ['October', 'November', 'December']],
+    ])('when firstMonth is %i, table headers are %s', (firstMonth, expectedTableHeaders) => {
+      render(<DisplayCustomerRewardsTable customers={customers} firstMonth={firstMonth} />)
 
       const firstMonthTableHeaderText = screen
         .getByRole('table')
@@ -157,7 +150,7 @@ describe('test DisplayCustomerRewardsTable', () => {
         firstMonthTableHeaderText,
         secondMonthTableHeaderText,
         thirdMonthTableHeaderText,
-      ]).toEqual(selectedMonths)
+      ]).toEqual(expectedTableHeaders)
     })
   })
 })

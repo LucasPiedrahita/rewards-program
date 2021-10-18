@@ -3,7 +3,6 @@ import DisplayCustomerRewardsTable from './components/DisplayCustomerRewardsTabl
 import DateSelectionForm from './components/DateSelectionForm'
 import transactionService from './services/transactions'
 import calculateRewardsForAllCustomers from './utils/calculateRewards'
-import { getMonthNameByNumber } from './utils/dateUtils'
 import GlobalStyles from './styles/Global.styled'
 import { ThemeProvider } from 'styled-components'
 import Container from './styles/Container.styled'
@@ -12,7 +11,6 @@ const App = () => {
   const [transactions, setTransactions] = useState([])
   const [customers, setCustomers] = useState([])
   const [firstMonth, setFirstMonth] = useState(0)
-  const [selectedMonths, setSelectedMonths] = useState(['January', 'February', 'March'])
 
   // set initial transactions
   useEffect(() => {
@@ -29,18 +27,12 @@ const App = () => {
   }, [transactions, firstMonth])
 
   /**
-   * Function that updates state for firstMonth and selectedMonths based on DateSelectionForm change
+   * Function that updates state for firstMonth based on DateSelectionForm change
    * @author   Lucas Piedrahita
    * @param    {Object} event    onChange event
    */
-  const onDateSelection = (event) => {
-    const firstMonth = parseInt(event.target.value)
-    setFirstMonth(firstMonth)
-    setSelectedMonths([
-      getMonthNameByNumber(firstMonth),
-      getMonthNameByNumber(firstMonth + 1),
-      getMonthNameByNumber(firstMonth + 2),
-    ])
+  const dateSelectionChangeHandler = (event) => {
+    setFirstMonth(parseInt(event.target.value))
   }
 
   const theme = {
@@ -63,8 +55,8 @@ const App = () => {
           <h1>Rewards Program Calculator</h1>
         </Container>
         <Container bg={theme.colors.white}>
-          <DateSelectionForm onChange={onDateSelection} firstMonth={firstMonth} />
-          <DisplayCustomerRewardsTable customers={customers} selectedMonths={selectedMonths} />
+          <DateSelectionForm onChange={dateSelectionChangeHandler} firstMonth={firstMonth} />
+          <DisplayCustomerRewardsTable customers={customers} firstMonth={firstMonth} />
         </Container>
         <Container bg={theme.colors.darkGrey}>
           <footer>Placeholder footer text</footer>
