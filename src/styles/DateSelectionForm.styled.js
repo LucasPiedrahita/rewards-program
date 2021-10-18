@@ -12,4 +12,13 @@ const StyledDateSelectionForm = styled.form`
     border-bottom: 2px solid ${({ theme }) => theme.colors.action};
   }
 `
+
+StyledDateSelectionForm.defaultProps = {
+  theme: {
+    colors: {
+      action: 'steelblue',
+    },
+  },
+}
+
 export default StyledDateSelectionForm
