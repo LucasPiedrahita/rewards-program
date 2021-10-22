@@ -148,6 +148,9 @@ describe('<DisplayCustomerRewardsTable />', () => {
       [7, ['August', 'September', 'October']],
       [8, ['September', 'October', 'November']],
       [9, ['October', 'November', 'December']],
+      [10, ['November', 'December', 'January']],
+      [11, ['December', 'January', 'February']],
+      [12, ['January', 'February', 'March']],
     ])('when firstMonth is %i, table headers are %s', (firstMonth, expectedTableHeaders) => {
       render(
         <DisplayCustomerRewardsTable

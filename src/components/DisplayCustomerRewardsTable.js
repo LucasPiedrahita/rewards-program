@@ -5,9 +5,9 @@ import { getMonthNameByNumber } from '../utils/dateUtils'
 
 const DisplayCustomerRewardsTable = ({ customerRewardsSummary, firstMonth }) => {
   const selectedMonths = [
-    getMonthNameByNumber(firstMonth),
-    getMonthNameByNumber(firstMonth + 1),
-    getMonthNameByNumber(firstMonth + 2),
+    getMonthNameByNumber(firstMonth % 12),
+    getMonthNameByNumber((firstMonth + 1) % 12),
+    getMonthNameByNumber((firstMonth + 2) % 12),
   ]
   return (
     <StyledDisplayCustomerRewardsTable>

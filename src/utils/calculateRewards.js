@@ -44,9 +44,12 @@ export const calculateRewardsForOneCustomer = (transactions, customerId, firstMo
   const customerTransactions = transactions.filter(
     (transaction) => transaction.customerId === customerId
   )
-  const firstMonthRewards = calculateRewardsForOneMonth(customerTransactions, firstMonth)
-  const secondMonthRewards = calculateRewardsForOneMonth(customerTransactions, firstMonth + 1)
-  const thirdMonthRewards = calculateRewardsForOneMonth(customerTransactions, firstMonth + 2)
+  const firstMonthRewards = calculateRewardsForOneMonth(customerTransactions, firstMonth % 12)
+  const secondMonthRewards = calculateRewardsForOneMonth(
+    customerTransactions,
+    (firstMonth + 1) % 12
+  )
+  const thirdMonthRewards = calculateRewardsForOneMonth(customerTransactions, (firstMonth + 2) % 12)
   const totalRewards = firstMonthRewards + secondMonthRewards + thirdMonthRewards
   return {
     customerId,
