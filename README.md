@@ -2,7 +2,7 @@
 
 1. Clone repo
 2. Run `npm install` to install node modules
-3. Run `npm run server` to run test server that serves transations
+3. Run `npm run server` to run test server that serves transactions
    - You can see the transactions at http://localhost:3001/transactions/ once this is running
 4. Run `npm start` in another terminal without killing the terminal that is running the transactions server
    - The app should open in your default browser at http://localhost:3000/
